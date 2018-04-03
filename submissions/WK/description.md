@@ -4,7 +4,7 @@ Dominic Ward, Qiuqiang Kong
 
 CVSSP, University of Surrey, Guildford, UK
 
-dominic.ward@surrey.ac.uk
+dominic.ward[at]surrey.ac.uk
 
 q.kong[at]surrey.ac.uk
 
